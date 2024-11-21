@@ -1,3 +1,7 @@
+Conservative
+Commandment
+Congregation
+Hamentashen
 Shabbat
 Rosh hashanah
 Yom Kippur
@@ -19,7 +23,6 @@ Matzah
 Etrog
 Lulav
 Hummus
-Hamentashen
 Shakshuka
 Mezuzah
 Scape Goat
@@ -43,7 +46,6 @@ Freedom
 Rainbow
 Egypt
 Israel
-Yisrael
 Babylon
 Tribes
 Exile
@@ -60,7 +62,6 @@ Jonah
 Elijah
 Songs
 Creation
-Commandment
 Mitzvah
 Moses
 Abraham
@@ -85,7 +86,6 @@ Tallit
 Scroll
 Machzor
 Haggadah
-Shared meal
 Siddur
 Kippah
 Bimah
@@ -105,7 +105,6 @@ Yad
 Gelt
 Sukkah
 Synagogue
-Congregation
 Eden
 Persia
 Greeks
@@ -120,11 +119,26 @@ Wedding
 Yahrtzeit
 Birth
 Rabbi
-Student
 Cantor
 Temple
 Mishlach manot
-Scapegoat
 Miracle
 Freedom
 Sufganiyot
+Kiddush
+Kaddish
+Kabbalat Shabbat
+Maariv
+Shacharit
+Amidah
+Oseh Shalom
+Chavruta
+Reform
+Orthodox
+Kabbalah
+Priest
+Musar
+Haredi
+Mincha
+Omer
+Honey
